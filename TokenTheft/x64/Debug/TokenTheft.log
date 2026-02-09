@@ -1,0 +1,6 @@
+﻿  HandleGuard.cpp
+  ImpersonationGuard.cpp
+  main_token.cpp
+  TokenImp.cpp
+  Generating Code...
+  TokenTheft.vcxproj -> C:\Users\tenbew\source\repos\TokenTheft\x64\Debug\TokenTheft.exe
